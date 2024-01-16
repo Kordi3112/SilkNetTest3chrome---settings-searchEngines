@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SilkNetTest3")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ac8b29299d297e397e0e434d192990a429477cc")]
 [assembly: System.Reflection.AssemblyProductAttribute("SilkNetTest3")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SilkNetTest3")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

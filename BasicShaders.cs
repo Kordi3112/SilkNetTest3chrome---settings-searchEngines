@@ -55,7 +55,7 @@ namespace SilkNetTest3
 
                                 float4 PS(PS_IN input) : SV_Target 
                                 {
-                                    return float4(1,1,0,1);
+                                    //return float4(1,0,0,1);
                                     return input.col;
                                 }";
 

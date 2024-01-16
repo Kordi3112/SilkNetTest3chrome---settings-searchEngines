@@ -49,3 +49,4 @@ C:\Users\Kordian\source\repos\SilkNetTest3\SilkNetTest3\obj\Debug\net8.0\refint\
 C:\Users\Kordian\source\repos\SilkNetTest3\SilkNetTest3\obj\Debug\net8.0\SilkNetTest3.pdb
 C:\Users\Kordian\source\repos\SilkNetTest3\SilkNetTest3\obj\Debug\net8.0\SilkNetTest3.genruntimeconfig.cache
 C:\Users\Kordian\source\repos\SilkNetTest3\SilkNetTest3\obj\Debug\net8.0\ref\SilkNetTest3.dll
+C:\Users\Kordian\source\repos\SilkNetTest3\SilkNetTest3\obj\Debug\net8.0\SilkNetTest3.sourcelink.json
