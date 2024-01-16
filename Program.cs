@@ -233,7 +233,7 @@ unsafe void OnRender(double deltaSeconds)
     var viewport = new Viewport(0, 0, window.FramebufferSize.X, window.FramebufferSize.Y, 0, 1);
     deviceContext.RSSetViewports(1, in viewport);
 
-    basicShaders.BasicColorShader.ApplyShader();
+
 
     // Tell the output merger about our render target view.
     deviceContext.OMSetRenderTargets(1, ref renderTargetView, ref Unsafe.NullRef<ID3D11DepthStencilView>());
@@ -248,6 +248,7 @@ unsafe void OnRender(double deltaSeconds)
     deviceContext.IASetIndexBuffer(indexBuffer, Format.FormatR32Uint, 0);
 
     // Bind our shaders. 
+    basicShaders.BasicColorShader.ApplyShader();
 
     // Draw the quad.
     deviceContext.DrawIndexed(6, 0, 0);
